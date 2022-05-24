@@ -40,3 +40,7 @@ ROKO SHOP
 
 Bicolor Blouse and Asym Skirt
 https://booth.pm/ja/items/3534425
+
+torp3434
+Dress for Karin
+https://booth.pm/ja/items/3627509
