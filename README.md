@@ -21,7 +21,9 @@ https://booth.pm/ko/items/3470989
 Currently added outfits:
 
 poppo-shop
+
 3 way casual parka
 https://poppo-shop.booth.pm/items/2508896
+
 Travel Cat
 https://booth.pm/en/items/3730848
