@@ -18,6 +18,9 @@ https://ponderogen.booth.pm/items/3681787
 Karin
 https://booth.pm/ko/items/3470989
 
+Shigu
+https://booth.pm/en/items/3421652
+
 Currently added outfits:
 
 poppo-shop
