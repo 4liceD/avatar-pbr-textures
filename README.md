@@ -9,6 +9,9 @@ https://booth.pm/ko/items/3443188
 RearAlice
 https://booth.pm/en/items/2146588
 
+Sephira
+https://booth.pm/en/items/2953001
+
 Currently added outfits:
 
 poppo-shop
