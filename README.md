@@ -1,5 +1,5 @@
 Collection of self created pbr textures for vrchat avatars.
-Please only use them if you own the original models.
+No original files are included, you still need to own the models to set it up.
 
 Currently added avatars:
 
