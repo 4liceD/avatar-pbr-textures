@@ -35,3 +35,8 @@ Ms.Penguin's Shop
 
 Offshoulder and Frillskirt
 https://booth.pm/en/items/3311577
+
+ROKO SHOP
+
+Bicolor Blouse and Asym Skirt
+https://booth.pm/ja/items/3534425
