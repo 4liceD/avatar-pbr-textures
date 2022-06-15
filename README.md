@@ -21,6 +21,9 @@ https://booth.pm/ko/items/3470989
 Shigu
 https://booth.pm/en/items/3421652
 
+Quiche
+https://booth.pm/ja/items/954376
+
 Currently added outfits:
 
 poppo-shop
