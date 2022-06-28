@@ -28,6 +28,9 @@ Currently added outfits:
 
 poppo-shop
 
+ファンシーバイオレンス
+https://booth.pm/en/items/3107408
+
 3 way casual parka
 https://poppo-shop.booth.pm/items/2508896
 
