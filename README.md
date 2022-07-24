@@ -26,6 +26,10 @@ https://booth.pm/ja/items/954376
 
 Currently added outfits:
 
+Pini
+Gothic Punk Karin
+https://booth.pm/en/items/3888033
+
 capettiya
 
 【36アバター対応】Re:旧型スクール水着
