@@ -26,6 +26,12 @@ https://booth.pm/ja/items/954376
 
 Currently added outfits:
 
+capettiya
+
+【36アバター対応】Re:旧型スクール水着
+(School Swimsuit)
+https://booth.pm/en/items/4007888
+
 poppo-shop
 
 ファンシーバイオレンス
