@@ -3,6 +3,9 @@ No original files are included, you still need to own the models to set it up.
 
 Currently added avatars:
 
+GameVketChan
+https://store.vket.com/ec/items/6783/detail/
+
 Rindo
 https://booth.pm/ko/items/3443188
 
