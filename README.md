@@ -33,6 +33,9 @@ Noah's Ark
 専用【3D衣装モデル】ハロハロ
 https://woodapple.booth.pm/items/4217322
 
+3D衣装モデル】ブラックマリア
+https://booth.pm/en/items/3947959
+
 Pini
 Gothic Punk Karin
 https://booth.pm/en/items/3888033
