@@ -1,7 +1,12 @@
 Collection of self created pbr textures for vrchat avatars.
 No original files are included, you still need to own the models to set it up.
+The Packed PBR Textures are usually packed in mra order (optimised for mochie's uber shader)
+https://github.com/MochiesCode/Mochies-Unity-Shaders
 
 Currently added avatars:
+
+Rusk:
+https://booth.pm/ja/items/2559783
 
 GameVketChan
 https://store.vket.com/ec/items/6783/detail/
