@@ -34,6 +34,10 @@ https://booth.pm/ja/items/954376
 
 Currently added outfits:
 
+Fine's shop
+Autumn Parker
+https://3dfactorydayo.booth.pm/items/4232267
+
 Noah's Ark
 専用【3D衣装モデル】ハロハロ
 https://woodapple.booth.pm/items/4217322
